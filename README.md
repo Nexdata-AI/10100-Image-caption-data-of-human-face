@@ -2,7 +2,7 @@
 
 ## Description
 20,000 Image caption data of human face includes multiple races under the age of 18, 18~45 years old, 46~60 years old, and over 60 years old; the collection scene is rich, including indoor scenes and outdoor scenes; the image content is rich, including wearing masks, glasses, wearing headphones, facial expressions, gestures, and adversarial examples. The language of the text description is English, which mainly describes the race, gender, age, shooting angle, lighting and diversity content, etc.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1286?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1286?source=Github
 
 
 ## Data size
